@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #6c7c2a;
+    color: #ffffff;
+    line-height: 25%;
+   
+  
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1  {
+    color: #bae1e7b0;
+}
+
+.header nav { 
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul { 
+    list-style-type: none;
+}
+
+.header nav ul li {  
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.page-wrapper {
+    width: 100%;
+    background-color: white;
+    margin-left: auto;
+        
+   }
+
+.hero-banner {
+    width: 100%;
+    line-height: 1400%;
+    text-align:right;
+    background-image: url("../assets/image/—Pngtree—notebook\ laptop\ computer\ screen\ background_223332.jpg");
+    }
+
+.float-left {
+    
+    width: 100%;
+    min-height: 600px;
+    max-height: 300px;
+    /* height: 10%; */
+}
+
+.button:hover {
+    background-color: rgb(32, 11, 51);
+    transition: all 0.5s;
+    
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    display: grid;
+         
+}
+
+.contact-me ul {
+    list-style-type: none;
+}
+
+.contact-me ul li {
+    display: inline-block;
+    margin-left: 25px;
+} 
+
+#my-name {
+    background-color: beige;
+    max-width: 30vw;
+ 
+}
+
+.flex-item {
+    background-color: var(--primary);
+    color: var(--tertiary);
+    min-height: 150px;
+    max-height: 150px;
+    flex-basis: calc(50% - 1em);
+    display:flex;
+    align-items: flex-end;
+    padding: 0 0 20px 0;
+    margin: 0.5em;
+    transition: all 0.5s;
+    background-blend-mode: soft-light;
+    background-size: 150%;
+    border: 5px solid var(--secondary);
+    font-size: 0.9rem;
+    text-decoration: none;
+
+}
+/* 
+Below were the images used for this section */
+.run-buddy {
+    background-image: url("../assets/image/run-buddy.png");
+    width: 100%;
+    min-height: 200px;
+    max-height: 100px;
+}
+
+.led-wall {
+    background-image: url("../assets/image/led-wall.PNG");
+    width: 100%;
+    min-height: 200px;
+    max-height: 100px;
+    
+}
+
+#module-one-project {
+        background-image: url(../assets/image/led-wall.PNG);
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        text-indent: -9999px;
+        height: 180px;
+      } 
+
+
+.pastel-puzzles {
+    background-image: url("../assets/image/pastel-puzzle.png");
+    width: 100%;
+    min-height: 200px;
+    max-height: 100px;
+}
+
+.react-calc {
+    background-image: url("../assets/image/react-calc.jpg");
+    width: 100%;
+    min-height: 200px;
+    max-height: 100px;
+}
+
+.surf-report {
+    background-image: url("../assets/image/surf-report.jpg");
+    width: 100%;
+    min-height: 400px;
+    max-height: 150px;
+}
