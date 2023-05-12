@@ -22,6 +22,7 @@ Credits/References
 Collaboration with classmates during the study group session. Challenge notes, mockup, and tutor provided by the instructional team.
 References from w3schools.com: https://www.w3schools.com/howto/howto_website_create_portfolio.asp
 Obtained placeholder images from Google image.
+Obtained the source code for adding a link to an image in a css style sheet from: https://stackoverflow.com/questions/14730484/add-a-link-to-an-image-in-a-css-style-sheet
 
 License
 
