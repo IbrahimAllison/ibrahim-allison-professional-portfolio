@@ -28,5 +28,6 @@ License
 
 MIT License was used for creating this repository.
 Link to the deployed Website: https://ibrahimallison.github.io/ibrahim-allison-professional-portfolio/
-Screenshot of the deployed Web page.![image](https://github.com/IbrahimAllison/ibrahim-allison-professional-portfolio/assets/116689797/a7130d08-de61-4150-b0ac-8634fda1ae48)
+Screenshot of the deployed Web page.![image](https://github.com/IbrahimAllison/ibrahim-allison-professional-portfolio/assets/116689797/430c5aef-562c-4bf3-beb4-b9f9dab20dd6)
+
 
