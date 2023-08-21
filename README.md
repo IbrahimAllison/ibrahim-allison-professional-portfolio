@@ -24,6 +24,11 @@ References from w3schools.com: https://www.w3schools.com/howto/howto_website_cre
 Obtained placeholder images from Google image.
 Obtained the source code for adding a link to an image in a css style sheet from: https://stackoverflow.com/questions/14730484/add-a-link-to-an-image-in-a-css-style-sheet
 
+Other Projects
+
+Project 2: Here is the link to the group project that I did as part of my Full-Stack Web Development Boot Camp
+https://github.com/mj470/job-board-project-2
+
 License
 
 MIT License was used for creating this repository.
